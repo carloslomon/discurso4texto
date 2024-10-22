@@ -1,0 +1,1 @@
+Este es un script muy simple que nada más escucha y escribe todo al documento salida.txt. Usted debe crear el documento "salida.txt"
