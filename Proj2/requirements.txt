@@ -1,0 +1,11 @@
+datasets 
+evaluate 
+transformers[sentencepiece]
+transformers
+beautifulsoup4 
+requests
+torch
+bs4
+streamlit
+sentencepiece
+google.cloud
